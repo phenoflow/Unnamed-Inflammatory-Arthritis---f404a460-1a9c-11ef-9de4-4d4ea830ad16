@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/arthropathy-unnamed-inflammatory-arthritis---primary.py
+inputModule3:
+  class: File
+  path: python/unnamed-inflammatory-arthritis-joint---primary.py
+inputModule4:
+  class: File
+  path: python/unnamed-inflammatory-arthritis---primary.py
+inputModule5:
+  class: File
+  path: python/unnamed-inflammatory-arthritis-polyarthritis---primary.py
+inputModule6:
+  class: File
+  path: python/unnamed-inflammatory-arthritis-region---primary.py
+inputModule7:
+  class: File
+  path: python/negative-unnamed-inflammatory-arthritis---primary.py
+inputModule8:
+  class: File
+  path: python/other-unnamed-inflammatory-arthritis---primary.py
+inputModule9:
+  class: File
+  path: python/unnamed-inflammatory-arthritis-rheumatism---primary.py
+inputModule10:
+  class: File
+  path: python/juvenile-unnamed-inflammatory-arthritis---primary.py
+inputModule11:
+  class: File
+  path: python/multiple-unnamed-inflammatory-arthritis---primary.py
+inputModule12:
+  class: File
+  path: python/unnamed-inflammatory-arthritis-specified---primary.py
+inputModule13:
+  class: File
+  path: python/unnamed-inflammatory-arthritis-polyarthralgia---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
